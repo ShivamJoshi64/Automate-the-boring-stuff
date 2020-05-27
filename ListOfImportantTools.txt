@@ -1,0 +1,22 @@
+1. man => gives a documentation and lists all the -flag options present for a command
+
+2. tldr => short description (if man scares you) with website link and examples of usage
+
+3. find => finds files or directories in given path/ by given name pattern, file size, file type, modification time, *Execute commands on all of them* . . .
+
+4. locate => Find filenames/ filename patterns quickly with whole list of locations
+
+5. updatedb => Create or update the database used by - locate - command. It is usually run daily by cron.
+
+6. grep, rg, rigrep, ack, ag => search tools, optimized and advanced!
+
+7. history => Command Line history. Can do some great findings along with piping " | grep"(or grep family) [eg. history | grep roslaunch ]
+
+8. Ctrl+R => backwards search in the command line history
+
+9. fzf => command-line fuzzy finder [easy install on ubuntu 19+ ]
+
+ Understading directory structure:
+10. tree => Show the contents of the current directory as a tree.
+11. broot
+ 
