@@ -19,4 +19,5 @@
  Understading directory structure:
 10. tree => Show the contents of the current directory as a tree.
 11. broot
- 
+
+12. shellcheck
