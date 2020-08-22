@@ -1,0 +1,7 @@
+#!/bin/bash
+
+read -p "enter a number : " num
+
+if ((num > 0)) && ((num < 11)); then
+	echo "Your number $num is between 0 and 10"
+fi
